@@ -1,0 +1,4 @@
+django==3.2.23
+geopy==2.4.1
+openrouteservice
+pandas==2.2.3
